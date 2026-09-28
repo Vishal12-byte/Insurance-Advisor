@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+.env
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+.env.local
+
+# project structure
+.git_set_fake_date.sh
+
+# Local AI/IDE tooling
+.claude/
+.superpowers/
+
+# Environment files
+.env.*
+
+docs/
